@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(241, 241, 194);
+    background-image: url(/public/img/inicio\ sesion\ docente.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.titulo{
+    font-size: 60px;
+    text-align: left;
+    margin-left: 250px;
+    margin-top: 30px;
+
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    position: relative;
+    top: -120px;
+    left: 1250px;
+
+}
+
+.contenedor{
+    width: 300px;
+    height: 200px;
+    
+}
+
+input{
+    position: relative;
+    width: 700px;
+    height: 75px;
+    top: -200px;
+    left: 70%;
+    margin: 15px;
+    background-image: url(/public/img/fondo\ containers.png);
+    font-size: 27px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.boton{
+    position: relative;
+    margin-top: -150px;
+    margin-left: 75%;
+    background-color: #9CCEE9;
+    border-radius: 90px;
+    font-size: 45px;
+    text-align:center;
+    padding: 15px 0px;
+    width: 300px;
+}
+
+  .flecha{
+   position: relative;
+   top: -460px;
+   width: 90px;
+   left: 10px;
+  }

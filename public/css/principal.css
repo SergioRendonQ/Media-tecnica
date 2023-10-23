@@ -1,0 +1,64 @@
+.centrado {
+    text-align: center;        
+    text-align: center;
+    font-size: 60px;
+}
+
+
+body {
+    background-image: url(../img/concientizando\ con\ entretenimiento.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;
+    
+}
+
+.button-container {
+    height: 25vh;
+    width: 180vh;
+  }
+ 
+  .my-button {
+    background-color: #ab86429c;
+    color: rgb(0, 0, 0);
+    padding: 1vh 3vh;
+    font-size: 300%;
+    border:none;
+    border-radius: 3%;
+    margin-left: 15vh;
+    font-family: "Latin Modern Roman";
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .circle {
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+    margin-left: 22.5vh;
+    margin-top: -28vh;
+}
+
+.circle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.my-button2 {
+    background-color: #b46ea5b7;
+    color: rgb(0, 0, 0);
+    padding: 2vh 2vh;
+    font-size: 3.5vh;
+    border: none;
+    border-radius: 3vh;
+    font-weight: bold;
+  }
+
+  .row {
+    display: inline-flex;
+    align-items: center;
+    justify-items: center;
+  }
